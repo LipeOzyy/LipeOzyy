@@ -7,6 +7,7 @@
 
 
 
+
 ![LipeOzyy GitHub stats](https://github-readme-stats.vercel.app/api?username=LipeOzyy&show_icons=true&theme=radical)
 
 ### Technologies I master most
@@ -18,6 +19,9 @@
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img align="center" alt="bash" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    
+    
 </div>
 
 
