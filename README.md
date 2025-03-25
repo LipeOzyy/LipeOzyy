@@ -27,11 +27,4 @@
 </div>
 <br></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LipeOzyy&layout=compact&theme=radical) <p>       </p>![Descrição do GIF](https://i.pinimg.com/originals/52/b3/23/52b323fedb10e206401e7b8754bd0685.gif)
-
-<br></br>
-
-
-
-
-
+![Descrição do GIF](https://i.pinimg.com/originals/52/b3/23/52b323fedb10e206401e7b8754bd0685.gif)
