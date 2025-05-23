@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/LipeDSantos_)
 
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=11F72D&width=435&lines=Exploit+Today+)](https://git.io/typing-svg)
 
 ![LipeOzyy GitHub stats](https://github-readme-stats.vercel.app/api?username=LipeOzyy&show_icons=true&theme=radical)    
 
