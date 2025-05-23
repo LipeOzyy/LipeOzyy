@@ -20,11 +20,10 @@
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img align="center" alt="bash" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
 
     
     
 </div>
 <br></br>
 
-![Descrição do GIF](https://i.pinimg.com/originals/52/b3/23/52b323fedb10e206401e7b8754bd0685.gif)
